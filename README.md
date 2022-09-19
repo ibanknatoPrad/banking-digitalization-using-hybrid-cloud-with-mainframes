@@ -1,5 +1,7 @@
 *Read this in other languages: [中国](README-cn.md).*
 
+https://developer.ibm.com/devpractices/devops/
+
 # Banking Digitalization using Hybrid Cloud with IBM Z.
 
 The following journey will introduce the available Banking APIs published on IBM Cloud with logical business programs running on the IBM Z mainframe through a simulated retail bank called MPLbank.
